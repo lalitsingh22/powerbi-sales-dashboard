@@ -208,8 +208,10 @@ Potential enhancements for this project include:
 * Publishing the dashboard to **Power BI Service for real-time monitoring**
 
 ---
-## 📊 Dashboard Preview
-[Dashboard](Sale Dashboard Preview.png)
+## 📸 Dashboard Preview
+
+![Sales Dashboard](Sales Dashboard Preview.png)
+
 
 ⭐ If you found this project useful, consider **starring the repository**.
 
