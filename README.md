@@ -205,7 +205,7 @@ Potential enhancements for this project include:
 ---
 ## 📸 Dashboard Preview
 
-!(Sales Dashboard Preview.png)
+![Dashboard Preview](Sales Dashboard Preview.png)
 
 
 ⭐ If you found this project useful, consider **starring the repository**.
