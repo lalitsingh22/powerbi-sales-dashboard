@@ -175,14 +175,14 @@ Based on the analysis, the following actions are recommended:
 Sales-Dashboard-PowerBI/
 │
 ├── Data
-│   ├── raw_sales_data.xlsx
-│   └── cleaned_sales_data.xlsx
+│   ├── Sales Order.xlsx
+│   └── sales_person.xlsx
 │
 ├── Dashboard
-│   └── sales_dashboard.pbix
-│
-├── Images
-│   └── dashboard_screenshot.png
+│   └── Sales Dashboard.pbix
+
+│── Images
+│   └── dashboard_screen.png
 │
 └── README.md
 ```
@@ -208,7 +208,8 @@ Potential enhancements for this project include:
 * Publishing the dashboard to **Power BI Service for real-time monitoring**
 
 ---
-
+## 📊 Dashboard Preview
+![Dashboard](Sale Dashboard Preview.png)
 ⭐ If you found this project useful, consider **starring the repository**.
 
 This project is part of my **Data Analyst portfolio demonstrating skills in data analysis, visualization, and dashboard development using Power BI.**
