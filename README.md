@@ -174,15 +174,10 @@ Based on the analysis, the following actions are recommended:
 ```
 Sales-Dashboard-PowerBI/
 │
-├── Data
 │   ├── Sales Order.xlsx
 │   └── sales_person.xlsx
-│
-├── Dashboard
 │   └── Sales Dashboard.pbix
-
-│── Images
-│   └── dashboard_screen.png
+│   └── Sales Dashboard Preview.png
 │
 └── README.md
 ```
