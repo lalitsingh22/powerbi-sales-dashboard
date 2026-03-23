@@ -209,7 +209,8 @@ Potential enhancements for this project include:
 
 ---
 ## 📊 Dashboard Preview
-![Dashboard](Sale Dashboard Preview.png)
+[Dashboard](Sale Dashboard Preview.png)
+
 ⭐ If you found this project useful, consider **starring the repository**.
 
 This project is part of my **Data Analyst portfolio demonstrating skills in data analysis, visualization, and dashboard development using Power BI.**
